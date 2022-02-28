@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quran/static/css/main.30a7f287.css",
+    "main.js": "/quran/static/js/main.bdaf5d3d.js",
+    "static/media/pattern.png": "/quran/static/media/pattern.01a5a151cea911975ab6.png",
+    "static/media/sampulquran.png": "/quran/static/media/sampulquran.ad4084e3e093d639ad45.png",
+    "index.html": "/quran/index.html",
+    "main.30a7f287.css.map": "/quran/static/css/main.30a7f287.css.map",
+    "main.bdaf5d3d.js.map": "/quran/static/js/main.bdaf5d3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30a7f287.css",
+    "static/js/main.bdaf5d3d.js"
+  ]
+}
